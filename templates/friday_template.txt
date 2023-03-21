@@ -1,0 +1,69 @@
+09:00:00,     ,09:00 AM - Pearl's General Store
+        ,20001,                                   ,L,SIGN ON HD - Ted Branson
+        ,TRFFC
+09:30:00,     ,09:30 AM - Pearl's General Store
+        ,TRFFC
+10:00:00,     ,10:00 AM - Pearl's General Store
+        ,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
+        ,TRFFC
+10:30:00,     ,10:30 AM - Pearl's General Store
+        ,TRFFC
+11:00:00,     ,11:00 AM - Channel Surfing
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,TRFFC
+11:30:00,     ,11:30 AM - Channel Surfing
+        ,TRFFC
+12:00:00,     ,12:00 PM - The Africa Express
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+12:30:00,     ,12:30 PM - The Africa Express
+        ,TRFFC
+13:00:00,     ,01:00 PM - People United
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+13:30:00,     ,01:30 PM - People United
+        ,TRFFC
+14:00:00,     ,02:00 PM - Rag Radio
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
+        ,TRFFC
+14:30:00,     ,02:30 PM - Rag Radio
+        ,TRFFC
+15:00:00,     ,03:00 PM - Bloodstains from the Gra
+        ,99938,                                   ,L,KOOP HD1 HD3 Hornsby 3 F
+        ,TRFFC
+15:30:00,     ,03:30 PM - The Last Round Up
+        ,TRFFC
+16:00:00,     ,04:00 PM - The Last Round Up
+        ,99941,                                   ,L,KOOP HD1 HD3 Hornsby 5 M
+        ,TRFFC
+16:30:00,     ,04:30 PM - The Emo Diaries
+        ,TRFFC
+17:00:00,     ,05:00 PM - The Emo Diaries
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,TRFFC
+17:30:00,     ,05:30 PM - The Emo Diaries
+        ,TRFFC
+18:00:00,     ,06:00 PM - The Gazing Ball
+        ,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
+        ,TRFFC
+18:30:00,     ,06:30 PM - The Gazing Ball
+        ,TRFFC
+18:58:20,     ,[SIGN OFF AT 18:58:20]
+        ,20004,                                   ,L,SIGN OFF - Stephen
+18:59:20,11398,                                   ,L,Banana Slugs! Racing Down the Field
+19:00:00,     ,07:00 PM - The Microchip Revolution
+        ,99943,                                   ,L,KVRX HD3 Austin 1 M
+        ,TRFFC
+19:30:00,     ,07:30 PM - The Microchip Revolution
+        ,TRFFC
+20:00:00,     ,08:00 PM - Infrasound Sound System
+        ,99944,                                   ,L,KVRX HD3 Austin 2 F
+        ,TRFFC
+20:30:00,     ,08:30 PM - Infrasound Sound System
+        ,TRFFC
+21:00:00,     ,09:00 PM - D00MSCR0LLING
+        ,99945,                                   ,L,KVRX HD3 Austin 2 M
+        ,TRFFC
+21:30:00,     ,09:30 PM - D00MSCR0LLING
+        ,TRFFC
+22:00:00,     ,10:00 PM - Local Music Mix

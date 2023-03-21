@@ -1,0 +1,35 @@
+09:00:00,     ,09 AM LEGAL ID
+        ,20001,                                   ,L,SIGN ON HD - Ted Branson
+        ,TRFFC
+09:30:00,TRFFC
+10:00:00,     ,10 AM LEGAL ID
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+11:00:00,     ,11 AM LEGAL ID
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+12:00:00,     ,12 PM LEGAL ID
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,TRFFC
+13:00:00,     ,1 PM LEGAL ID
+        ,99938,                                   ,L,KOOP HD1 HD3 Hornsby 3 F
+        ,TRFFC
+14:00:00,     ,2 PM LEGAL ID
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
+        ,TRFFC
+15:00:00,     ,3 PM LEGAL ID
+        ,99941,                                   ,L,KOOP HD1 HD3 Hornsby 5 M
+15:30:00,TRFFC
+16:00:00,     ,4 PM LEGAL ID
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+17:00:00,     ,5 PM LEGAL ID
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+18:00:00,     ,6 PM LEGAL ID
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
+        ,TRFFC
+19:00:00,20004,                                   ,A,SIGN OFF - Stephen
+        ,99943,                                   ,L,KVRX HD3 Austin 1 M
+        ,TRFFC
+20:00:00,     ,Local Music Mix

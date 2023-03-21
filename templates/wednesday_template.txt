@@ -1,0 +1,45 @@
+09:00:00,     ,9 AM LEGAL ID Wednesday
+        ,99205,                                   ,A,FILLER CUT 15 Seconds
+        ,20005,                                   ,L,SIGN ON HD - Vanessa
+09:00:00,     ,LIVE: FAIS DO DO
+        ,TRFFC
+10:00:00,     ,10 AM LEGAL ID
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,TRFFC
+11:00:00,     ,11 AM LEGAL ID
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,     ,LIVE AROUND THE TOWN SOUNDS
+        ,TRFFC
+12:00:00,     ,12 PM LEGAL ID
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,     ,LIVE INTERNATIONAL FOLK BAZAAR
+        ,TRFFC
+13:00:00,     ,1 PM LEGAL ID
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,     ,LIVE: OFF STAGE AND ON THE AIR
+        ,TRFFC
+14:00:00,     ,2 PM LEGAL ID
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,     ,AUSTIN COMMON RADIO HOUR
+        ,TRFFC
+15:00:00,     ,3 PM LEGAL ID
+        ,     ,LIVE: HIPPY CAMPUS
+        ,TRFFC
+16:00:00,     ,4 PM LEGAL ID
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+        ,     ,LIVE CRATE DIGGERS GOLD
+16:30:00,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
+        ,TRFFC
+17:00:00,     ,5 PM LEGAL ID
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,TRFFC
+18:00:00,     ,6 PM LEGAL ID
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,     ,LIVE: THE STOPPED CLOCK
+        ,TRFFC
+18:40:00,20006,                                   ,L,SIGN OFF - Steve Barber
+        ,99943,                                   ,L,KVRX HD3 Austin 1 M
+        ,     ,LIVE CZECH MELODY TIME
+        ,TRFFC
+20:00:00,     ,Local Music Mix

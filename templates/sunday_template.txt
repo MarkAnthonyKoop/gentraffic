@@ -1,0 +1,72 @@
+09:00:00,     ,9:00 AM Sunday SUNDAY GO TO MEETIN
+        ,20001,                                   ,L,SIGN ON HD - Ted Branson
+09:05:02,TRFFC
+09:30:00,     ,9:30 AM Sunday SUNDAY GO TO MEETIN
+        ,TRFFC
+10:00:00,     ,10 AM Sunday STRICTLY BLUEGRASS 1
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+10:30:00,     ,10:30 AM Sunday STRICTLY BLUEGRASS
+        ,TRFFC
+11:00:00,     ,11 AM Sunday STRICTLY BLUEGRASS 3
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+11:30:00,     ,11:30 AM Sunday STRICTLY BLUEGRASS
+        ,TRFFC
+12:00:00,     ,12 PM Sunday JAMAiCAN GOLD 1
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
+        ,TRFFC
+12:30:00,     ,12:30 PM Sunday JAMAiCAN GOLD 2
+        ,TRFFC
+13:00:00,     ,1 PM Sunday JAMAiCAN GOLD 3
+        ,99938,                                   ,L,KOOP HD1 HD3 Hornsby 3 F
+        ,TRFFC
+13:30:00,     ,1:30 PM Sunday JAMAiCAN GOLD 4
+        ,TRFFC
+14:00:00,     ,2 PM Sunday HIP HOP HOORAY 1
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
+	,12260, 				  ,L,HHH Theme Extended
+        ,TRFFC
+14:30:00,     ,2:30 PM Sunday HIP HOP HOORAY 2
+        ,TRFFC
+15:00:00,     ,3 PM Sunday HIP HOP HOORAY 3
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+15:30:00,     ,3:30 PM Sunday FREE SAMPLES 1
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+16:00:00,     ,4 PM Sunday FREE SAMPLES 2
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+16:30:00,     ,4:30 PM Sunday LOVE ON THE DOLE 1
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+17:00:00,     ,5 PM Sunday LOVE ON THE DOLE 2
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
+        ,TRFFC
+17:30:00,     ,5:30 PM Sunday VIRTUAL NOISE 1
+        ,TRFFC
+18:00:00,     ,6 PM Sunday VIRTUAL NOISE 2
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+18:30:00,     ,6:30 PM Sunday VIRTUAL NOISE 3
+18:45:00,TRFFC
+19:00:00,     ,7 PM Sunday FADE TO YELLOW 1
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
+        ,TRFFC
+19:30:00,     ,7:30 PM Sunday FADE TO YELLOW 2
+        ,TRFFC
+20:00:00,     ,8 PM Sunday FADE TO YELLOW 3
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+20:30:00,     ,8:30 PM Sunday COMMERCIAL SUICIDE 1
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+21:00:00,     ,9 PM Sunday COMMERCIAL SUICIDE 2
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+21:30:00,     ,9:30 PM Sunday COMMERCIAL SUICIDE 3
+        ,TRFFC
+21:59:00,20002,                                   ,A,SIGN OFF - Simone
+22:00:00,     ,10 PM Sunday
+22:00:00,     ,Local Music Mix

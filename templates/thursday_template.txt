@@ -1,0 +1,52 @@
+09:00:00,20001,                                   ,A,SIGN ON HD - Ted Branson
+        ,TRFFC
+09:30:00,     ,09:30 AM - Lonesome Stranger B
+        ,TRFFC
+10:00:00,     ,10:00 AM - Lonesome Stranger C
+        ,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
+        ,TRFFC
+10:30:00,     ,10:30 AM - Lonesome Stranger D
+        ,TRFFC
+11:00:00,     ,11:00 AM - TeXchromosone A
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,TRFFC
+11:30:00,     ,11:30 AM - TeXchromosone B
+        ,TRFFC
+12:00:00,     ,12:00 PM Passport to India A
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+12:30:00,     ,12:30 PM - Passport to India B
+        ,TRFFC
+13:00:00,     ,01:00 PM - What's New A
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+13:30:00,     ,01:30 PM - What's New B
+        ,TRFFC
+14:00:00,     ,02:00 PM - Lights Camera Austin A
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
+        ,TRFFC
+14:30:00,     ,02:30 PM - Lights Camera Austin B
+        ,TRFFC
+15:00:00,     ,03:00 PM - Punk Melody Time A
+        ,99938,                                   ,L,KOOP HD1 HD3 Hornsby 3 F
+        ,TRFFC
+15:30:00,     ,03:30 PM - Punk Melody Time B
+        ,TRFFC
+16:00:00,     ,04:00 PM - Punk Melody Time C
+        ,99941,                                   ,L,KOOP HD1 HD3 Hornsby 5 M
+        ,TRFFC
+16:30:00,     ,04:30 PM - Small Cool World A
+        ,TRFFC
+17:00:00,     ,05:00 PM - Small Cool World B
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
+        ,TRFFC
+17:30:00,     ,05:30 PM - Small Cool World C
+        ,TRFFC
+18:00:00,     ,06:00 PM - Double Heads B
+18:00:00,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
+18:00:00,12262,                                   ,L,DoubleHeadsTheme
+        ,TRFFC
+18:30:00,     ,06:30 PM - Double Heads A
+        ,TRFFC
+19:00:00,20004,                                   ,A,SIGN OFF - Stephen
+19:00:00,     ,Local Music Mix

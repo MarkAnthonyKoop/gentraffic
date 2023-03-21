@@ -1,0 +1,55 @@
+09:00:00,     ,0900 Programming Block
+        ,     ,Graveside Service
+        ,20003,                                   ,L,SIGN ON HD - Michael Brown
+        ,00601,                                   ,L,INTRO Graveside Service
+        ,TRFFC
+10:00:00,     ,1000 Programming Block
+        ,     ,The Lounge Show
+        ,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
+        ,TRFFC
+11:00:00,     ,1100 Programming Block
+        ,     ,The Lounge Show
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,TRFFC
+12:00:00,     ,1200 Programming Block
+        ,     ,The Jazz Show
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,TRFFC
+13:00:00,     ,1300 Programming Block (1 PM)
+        ,     ,Adventures In Sound
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+14:00:00,     ,1400 Programming Block (2 PM)
+        ,     ,Darkside Dad
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+15:00:00,     ,1500 Programming Block (3PM)
+        ,     ,Singer and The Song
+        ,99938,                                   ,L,KOOP HD1 HD3 Hornsby 3 F
+        ,TRFFC
+16:00:00,     ,1600 Programming Block (4 PM)
+        ,     ,The Girlie Show
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
+        ,TRFFC
+17:00:00,     ,1700 Programming Block (5 PM)
+        ,     ,Fresh From the Underground
+        ,99941,                                   ,L,KOOP HD1 HD3 Hornsby 5 M
+        ,TRFFC
+18:00:00,     ,1800 Programming Block (6 PM)
+        ,     ,Darkest Before Dawn
+        ,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
+        ,TRFFC
+19:00:00,     ,1900 Programming Block (7 PM)
+        ,     ,The Clear Spot
+        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,TRFFC
+20:00:00,     ,2000 Programming Block (8 PM)
+        ,     ,Stronger Than Dirt
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+21:00:00,     ,2100 Programming Block (9 PM)
+        ,     ,Stronger Than Dirt
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,TRFFC
+21:58:20,20004,                                   ,A,SIGN OFF - Stephen
+22:00:00,     ,Local Music Mix
