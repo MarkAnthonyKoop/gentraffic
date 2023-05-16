@@ -33,7 +33,7 @@ def update_dad(startday):
 
 
     dates = getdates(ascii_traffic)
-    print("\ndates are:",dates,'\n')
+    #print("This week's AUTO files are:",dates,'\n')
     week = weekdays()
 
     for i,day in enumerate(week):
@@ -43,16 +43,17 @@ def update_dad(startday):
             week[i] = day.upper()
 
     # get current datetime
+    # there was a bug here where it was always getting gmt time.  can't remember how it was fixed
     dt_now = datetime.now()
     print("\nToday's date is:", dt_now)
 
     # get weekday name
-    print('\nToday is ', dt_now.strftime('%A'),dt_now.month,dt_now.day)
-    print('Month/Day is ', str(dt_now.month).zfill(2)+str(dt_now.day).zfill(2),"\n")
+    #print('\nToday is ', dt_now.strftime('%A'),dt_now.month,dt_now.day)
+    #print('Month/Day is ', str(dt_now.month).zfill(2)+str(dt_now.day).zfill(2),"\n")
 
 
     if weekof_dt < dt_now and (startday.upper() in 'MONDAY' or 'MON' in startday.upper()):
-        print('\n\nError! ==> Refusing to autocopy into the past.\n\n')
+        print('\nError! ==> Refusing to autocopy into the past.\n')
         return False
         
     started = False
@@ -71,7 +72,7 @@ def update_dad(startday):
             shutil.copy(auto_file,"K:/DAD/Files/PLAYLIST")
         shutil.copy(auto_file, "logs")
         print("Updated",auto_file)
-    print("\nFinished")
+    print("\nUpdateDad Finished! Traffic successfully copied to K: Drive.\n")
 
 if __name__ == "__main__":
     update_dad(startday)

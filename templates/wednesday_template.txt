@@ -7,26 +7,27 @@
         ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
         ,TRFFC
 11:00:00,     ,11 AM LEGAL ID
-        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
         ,     ,LIVE AROUND THE TOWN SOUNDS
         ,TRFFC
 12:00:00,     ,12 PM LEGAL ID
-        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
         ,     ,LIVE INTERNATIONAL FOLK BAZAAR
         ,TRFFC
 13:00:00,     ,1 PM LEGAL ID
-        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
         ,     ,LIVE: OFF STAGE AND ON THE AIR
         ,TRFFC
 14:00:00,     ,2 PM LEGAL ID
-        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,99938,                                   ,L,KOOP HD1 HD3 Hornsby 3 F
         ,     ,AUSTIN COMMON RADIO HOUR
         ,TRFFC
 15:00:00,     ,3 PM LEGAL ID
-        ,     ,LIVE: HIPPY CAMPUS
+15:00:00,01018,WOTA Intro w/ Disclaimer           ,L
+        ,     ,Writing on the Air
         ,TRFFC
 16:00:00,     ,4 PM LEGAL ID
-        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
         ,TRFFC
         ,     ,LIVE CRATE DIGGERS GOLD
 16:30:00,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
@@ -35,11 +36,12 @@
         ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
         ,TRFFC
 18:00:00,     ,6 PM LEGAL ID
-        ,99934,                                   ,L,KOOP HD1 HD3 Hornsby 1 F
+        ,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
         ,     ,LIVE: THE STOPPED CLOCK
         ,TRFFC
-18:40:00,20006,                                   ,L,SIGN OFF - Steve Barber
+18:58:20,     ,LOAD SIGNOFF AT EXACTLY 6:58:20!!
+18:58:20,20006,                                   ,L,SIGN OFF - Steve Barber
         ,99943,                                   ,L,KVRX HD3 Austin 1 M
-        ,     ,LIVE CZECH MELODY TIME
+19:00:00,     ,LIVE CZECH MELODY TIME
         ,TRFFC
 20:00:00,     ,Local Music Mix

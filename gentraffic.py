@@ -188,13 +188,16 @@ def xref_traffic_titles(traffic_records, cut_records):
                                      "    found: " + cut_titles[mi].ljust(32)[:32] + 
                                      "-->" + str(match_index) )
                 if match_index[0][2] < .85:
-                    print("\n  !!!!!!!!!!!!!!!WARNING!!!!!!!!!!!!!!!!!")
-                    print("      ----- Match Score below .85 -----\n")
-                    print(" traffic title requested:  ",title)
-                    print(" closest cut title found:  ",cut_titles[mi])
-                    print("\n match index:\n")
-                    pprint(match_index)
-                    print("\n")
+                    if verbose:
+                        print("\n  !!!!!!!!!!!!!!!WARNING!!!!!!!!!!!!!!!!!")
+                        print("      ----- Match Score below .85 -----\n")
+                        print(" traffic title requested:  ",title)
+                        print(" closest cut title found:  ",cut_titles[mi])
+                        print("\n match index:\n")
+                        pprint(match_index)
+                        print("\n")
+                    else:
+                        print("Warning log/lib mismatch:  ",title," - ",cut_titles[mi])
                     warnings.append("requested: " + title),
                     warnings.append("    found: " + cut_titles[mi]),
         mylog(warnings,day+"_warnings.log")
@@ -494,7 +497,7 @@ def gen_1_day_of_traffic(playlist, day, traffic, cut_records):
 
 def gentraffic():
     print("\ngentraffic v1.02b\n")
-    print("  last updated on: 12/1/22")
+    print("  last updated on: 3/21/23")
     print("  last updated by: Markanth\n\n")
     print("generating traffic...\n")
     if verbose:
@@ -520,7 +523,7 @@ def gentraffic():
     #use this line to generate just one specific day of playout
     #list(map(gen_1_day_of_traffic, [playlists[2]], ['Wednesday'] 
     #        ,repeat(traffic['Wednesday']), repeat(cut_records)))
-    print("\nFinished\n")
+    print("\nGentraffic Finished!!!!-Traffic Successfully Generated for",startday,"to Sunday!\n\n")
     return True
 
 if gentraffic():
@@ -528,6 +531,7 @@ if gentraffic():
     print("updating DAD with startday",startday)
     update_dad(startday)
     verify_results()
+    print("\nAll Programs Finished!!\n")
     
 #zipfile.ZipFile('
 

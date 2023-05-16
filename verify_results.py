@@ -21,9 +21,9 @@ def verify_results():
     ascii_traffic = read_traffic()
     weekof = ascii_traffic[1][2]
     
-    print("\nverifying traffic for week of:",weekof,"\n")
+    print("VerifyResults now running and verifying traffic for week of:",weekof,"\n")
     dates = getdates(ascii_traffic)
-    print("dates are:",dates,'\n')
+    #print("dates are:",dates,'\n')
     
     weekly_traffic = get_weeklytraffic(ascii_traffic,dates)
     
@@ -36,14 +36,14 @@ def verify_results():
         mylower(traffic)
         mylower(playlist)
         ndiffs = ndiff(playlist,traffic)
-        print("\nVerifying -->",date,":\n")
-        print("--------------differences------------")
-        print('\n'.join(ndiffs))
-        print("-----------Requested Traffic---------")
-        print('\n'.join(traffic))
-        print("-------------Actual Traffic----------")
-        print('\n'.join(playlist))
-        print("-------------test results------------")
+        #print("\nVerifying -->",date,":\n")
+        #print("--------------differences------------")
+        #print('\n'.join(ndiffs))
+        #print("-----------Requested Traffic---------")
+        #print('\n'.join(traffic))
+        #print("-------------Actual Traffic----------")
+        #print('\n'.join(playlist))
+        #print("-------------test results------------")
         playlist_file = "logs/"+date+"playlist.txt"
         traffic_file  = "logs/"+date+"traffic.txt"
         list2file(playlist,playlist_file)

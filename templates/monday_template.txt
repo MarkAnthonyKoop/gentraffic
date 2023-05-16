@@ -8,13 +8,13 @@
         ,99938,                                   ,L,KOOP HD1 HD3 Hornsby 3 F
         ,TRFFC
 12:00:00,     ,12 PM LEGAL ID
-        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
+        ,99939,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
         ,TRFFC
 13:00:00,     ,1 PM LEGAL ID
-        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
         ,TRFFC
 14:00:00,     ,2 PM  LEGAL ID
-        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
         ,TRFFC
 15:00:00,     ,3 PM LEGAL ID
         ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
@@ -23,15 +23,15 @@
         ,99938,                                   ,L,KOOP HD1 HD3 Hornsby 3 F
         ,TRFFC
 17:00:00,     ,5 PM LEGAL ID
-        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
+        ,99939,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
         ,TRFFC
 18:00:00,     ,6 PM LEGAL ID
-        ,99935,                                   ,A,KOOP HD1 HD3 Hornsby 2 F
+18:00:00,     ,LOAD NEXT CUT AT 18:00 EXACTLY!!
+        ,99934,                                   ,A,KOOP HD1 HD3 Hornsby 1 F
         ,TRFFC,                                   ,A
 18:04:00,71350,                                   ,A
         ,TRFFC,                                   ,A
 18:32:00,71360,                                   ,A
-        ,00440,                                   ,A
 18:58:20,20004,                                   ,A,SIGN OFF - Stephen
 19:00:00,     ,7PM LEGAL ID
         ,99943,                                   ,L,KVRX HD3 Austin 1 M

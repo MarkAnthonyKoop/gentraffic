@@ -14,12 +14,12 @@
 11:30:00,     ,11:30 AM - Channel Surfing
         ,TRFFC
 12:00:00,     ,12:00 PM - The Africa Express
-        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
         ,TRFFC
 12:30:00,     ,12:30 PM - The Africa Express
         ,TRFFC
 13:00:00,     ,01:00 PM - People United
-        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
         ,TRFFC
 13:30:00,     ,01:30 PM - People United
         ,TRFFC
@@ -34,7 +34,7 @@
 15:30:00,     ,03:30 PM - The Last Round Up
         ,TRFFC
 16:00:00,     ,04:00 PM - The Last Round Up
-        ,99941,                                   ,L,KOOP HD1 HD3 Hornsby 5 M
+        ,99939,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
         ,TRFFC
 16:30:00,     ,04:30 PM - The Emo Diaries
         ,TRFFC
@@ -44,13 +44,12 @@
 17:30:00,     ,05:30 PM - The Emo Diaries
         ,TRFFC
 18:00:00,     ,06:00 PM - The Gazing Ball
-        ,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
+        ,99939,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
         ,TRFFC
 18:30:00,     ,06:30 PM - The Gazing Ball
         ,TRFFC
-18:58:20,     ,[SIGN OFF AT 18:58:20]
-        ,20004,                                   ,L,SIGN OFF - Stephen
-18:59:20,11398,                                   ,L,Banana Slugs! Racing Down the Field
+18:58:20,     ,LOAD SIGNOFF AT EXACTLY 18:58:20!!
+18:58:20,20004,                                   ,L,SIGN OFF - Stephen
 19:00:00,     ,07:00 PM - The Microchip Revolution
         ,99943,                                   ,L,KVRX HD3 Austin 1 M
         ,TRFFC

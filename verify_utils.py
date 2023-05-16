@@ -55,7 +55,8 @@ def get_playlist(date, cut_records, on_prod):
         if record['FUNCTION'] == 'L' and record['CUT'][0:2] != '99' and cut:
             playlist.append( cut['TITLE'] )
             if (float(cut['LENGTH']) > 232 and 
-                    cut['CUT'] != '12260'):
+                    cut['CUT'] != '12260'  and
+                    cut['CUT'] != '00605'):
                 print("ERROR!!!!!!!!!!!!! Long cut:",
                        cutid," length: ",cut['LENGTH'] )
                 sys.exit("Long Cut")

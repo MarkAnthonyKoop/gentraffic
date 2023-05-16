@@ -13,12 +13,12 @@
 11:30:00,     ,11:30 AM - TeXchromosone B
         ,TRFFC
 12:00:00,     ,12:00 PM Passport to India A
-        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
+        ,99935,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
         ,TRFFC
 12:30:00,     ,12:30 PM - Passport to India B
         ,TRFFC
 13:00:00,     ,01:00 PM - What's New A
-        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 M
+        ,99936,                                   ,L,KOOP HD1 HD3 Hornsby 2 F
         ,TRFFC
 13:30:00,     ,01:30 PM - What's New B
         ,TRFFC
@@ -33,20 +33,21 @@
 15:30:00,     ,03:30 PM - Punk Melody Time B
         ,TRFFC
 16:00:00,     ,04:00 PM - Punk Melody Time C
-        ,99941,                                   ,L,KOOP HD1 HD3 Hornsby 5 M
+        ,99939,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
         ,TRFFC
 16:30:00,     ,04:30 PM - Small Cool World A
         ,TRFFC
 17:00:00,     ,05:00 PM - Small Cool World B
-        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
+        ,99937,                                   ,L,KOOP HD1 HD3 Hornsby 3 M
         ,TRFFC
 17:30:00,     ,05:30 PM - Small Cool World C
         ,TRFFC
 18:00:00,     ,06:00 PM - Double Heads B
-18:00:00,99933,                                   ,L,KOOP HD1 HD3 Hornsby 1 M
+18:00:00,99939,                                   ,L,KOOP HD1 HD3 Hornsby 4 M
 18:00:00,12262,                                   ,L,DoubleHeadsTheme
         ,TRFFC
 18:30:00,     ,06:30 PM - Double Heads A
         ,TRFFC
-19:00:00,20004,                                   ,A,SIGN OFF - Stephen
+18:58:20,     ,LOAD SIGNOFF AT EXACTLY 6:58:20!!
+18:58:20,20004,                                   ,A,SIGN OFF - Stephen
 19:00:00,     ,Local Music Mix

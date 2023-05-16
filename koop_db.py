@@ -291,7 +291,7 @@ def get_records_from_dbf(filename,ignore_archived=False):
        Output: a list of dictionaries containing the 
                data in the dbf database """
        
-    print("getting records from",filename)
+    #print("getting records from",filename,"\n")
     dbftable = DBF(filename,char_decode_errors='ignore')
     #print(dbftable)
     records = []
