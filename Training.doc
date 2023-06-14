@@ -1,0 +1,61 @@
+HOW TO USE GENTRAFFIC - this guide accurate as of March 2023
+
+Intro
+Gentraffic is a custom script that interprets a weekly traffic spreadsheet and generates a week’s worth of daily playlists to be used in DAD. This document will explain the steps to successfully generate KOOP’s traffic playlists, one week at a time.
+
+Logging Into Prod
+This task must be performed on the Production PC but can be done in-station or remotely. If you are in the station at the computer and logged in, skip to the next section.
+
+If you are working remotely, go to remotedesktop.google.com and login to the remotepc@koop.org account. The password for this account is held by the Tech Team.
+
+Downloading the week’s Traffic
+Open the Chrome browser and use the bookmarks bar at the top to select 2023 LOGS. The weekly logs are organized by month. Select the correct month and open the log that is labeled with Monday’s date for the following week.
+
+In Google Sheets, go to File → Download → Comma Separated Values (.csv)
+
+This creates a special kind of text document with all of the important data separated by commas. The gentraffic script will be able to interpret this document by using the commas as reference points.
+
+Use the downloads bar or the file explorer to navigate to Downloads and locate the .csv file.
+
+Using gentraffic
+If the Cygwin terminal is not open, use the taskbar to open Cygwin (the icon is a black square window next to the Chrome icon). Cygwin is a terminal environment, meaning it accepts certain text commands. You are now going to execute a couple of commands.
+
+Type cdgi and press Enter
+
+This changes the current directory.
+
+Type e and press Enter
+
+A Windows file explorer should open containing a file called traffic.csv – This is last week’s traffic.
+
+Delete traffic.csv and replace it with the file you downloaded to the Downloads folder. You can either copy the file or drag it from one window to the other. Make sure you rename this newer file traffic.csv
+Back in Cygwin, type cdg and press Enter
+
+This returns you to the main directory.
+
+Type go and press Enter
+
+Sit back and watch how gentraffic does its thing.
+
+Troubleshooting
+Every once in a while, the script will hang up/freeze. Use Ctrl+C to stop it and simply try again using the go command.
+
+If you are doing the traffic in the middle of the week or updating the traffic on any day other than Sunday, you will have to use the go x command, where x is the following weekday. For example, if it is currently Tuesday and you have traffic changes to publish for the rest of the week, instruct the script to go wednesday in order to take care of the whole week starting from tomorrow (Wednesday).
+
+After successfully completing, gentraffic will open a window for Monday’s playlist. On the left hand column is the input as it appeared in the .csv file of the traffic spreadsheet you downloaded earlier.
+
+On the right hand column are the Cuts as gentraffic found them. It will highlight any differences between the two columns; usually this amounts to a date or a “part A” in the title of the cut that gentraffic was not expecting. It finds the closest correct cut and uses that one.
+
+Simply double-check that each cut looks correct.
+
+Close the window using the red X and the next day’s window will appear. Go through all seven days of the week and you are done using gentraffic
+
+Massaging the results
+At this point, gentraffic has already given all the playlists to DAD by transferring them over the network to the K: server.
+
+If the network is down or the K: drive is not mapped, gentraffic will not be able to complete. Fix this first!
+
+If you need to make changes to anything that gentraffic has done, you will do so in DAD’s Playlist Modify.
+
+On Mondays, for example, BLID is automated. Use the Playlist modify function in DAD to make sure the Station Sign Off cut plays at exactly 6:58pm.
+
